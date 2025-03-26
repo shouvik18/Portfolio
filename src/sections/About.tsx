@@ -27,8 +27,7 @@ function About() {
 
   const mobileText = {
     intro:
-      'Hello! I am Lohit Kolluri, a Full Stack Developer passionate about DevOps and Machine Learning. I hold a Bachelor of Technology from SRM Institute of Science and Technology.',
-    experience:
+      'Hi, I’m Shouvik Pal. I’m currently learning Software Development step by step. Right now, I may not know much, but I’m passionate about coding and eager to improve every day. Stay tuned—I’m learning, building, and growing!:
       'At Apollo Tyres R&D, I developed an intelligent task queuing system and architected scalable solutions. My expertise includes Python, Cloud platforms (AWS, GCP), and frameworks like FastAPI and Flask.',
   };
 
